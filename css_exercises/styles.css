@@ -26,15 +26,15 @@ h2{
     font-style: italic;
 
 }
-:hover{
+a:hover{
 
     color: red;
     text-decoration: underline;
 
 }
-:first-child{
+ul li:first-child{
     color:green;
 }
-:nth-child{
+ul li:nth-child(even){
     color: lightgray;
 }
