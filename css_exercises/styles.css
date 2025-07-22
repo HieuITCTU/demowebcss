@@ -13,3 +13,28 @@ p{
 h1{
     font-size: 3em; 
 } 
+h2{
+   
+    text-align: center;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bolder;
+}
+#special-text{
+    color: yellow;
+    font-style: italic;
+
+}
+:hover{
+
+    color: red;
+    text-decoration: underline;
+
+}
+:first-child{
+    color:green;
+}
+:nth-child{
+    color: lightgray;
+}
