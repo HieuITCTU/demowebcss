@@ -1,0 +1,93 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #ffffe0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-family: Georgia, serif;
+            background-color: #dda0dd;
+            color: #ffffe0;
+            text-align: left;
+            font-size: 2.5em;
+            margin: 0;
+            padding: 20px;
+            font-weight: bold;
+        }
+        
+        .quote {
+            font-family: Georgia, serif;
+            color: #dda0dd;
+            font-style: italic;
+            font-size: 1.3em;
+            margin: 20px 0;
+            padding: 0 20px;
+        }
+        
+        .hobbies-section {
+            border: 3px dashed #87ceeb;
+            padding: 20px;
+            margin: 20px 0;
+            background-color: #ffffe0;
+            color: #87ceeb;
+            font-family: Arial, sans-serif;
+        }
+        
+        .section-header {
+            font-family: Georgia, serif;
+            background-color: #dda0dd;
+            color: #ffffe0;
+            font-style: italic;
+            font-size: 1.5em;
+            margin: 20px 0 0 0;
+            padding: 15px 20px;
+            font-weight: bold;
+        }
+        
+        .foods-section {
+            background-color: #ffffe0;
+            border: 3px solid #87ceeb;
+            padding: 20px;
+            margin: 0 0 20px 0;
+        }
+        
+        .foods-section ol {
+            color: #dda0dd;
+            font-family: Arial, sans-serif;
+            font-size: 1.1em;
+            margin: 0;
+            padding-left: 20px;
+        }
+        
+        .websites-section {
+            background-color: #ffffe0;
+            border: 3px solid #87ceeb;
+            padding: 20px;
+            margin: 0;
+        }
+        
+        .websites-section ul {
+            color: #dda0dd;
+            font-family: Arial, sans-serif;
+            font-size: 1.1em;
+            list-style-type: disc;
+            margin: 0;
+            padding-left: 20px;
+        }
+        
+        .websites-section a {
+            color: #87ceeb;
+            text-decoration: none;
+        }
+        
+        .websites-section a:hover {
+            text-decoration: underline;
+        }
+    
