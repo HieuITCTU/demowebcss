@@ -65,3 +65,33 @@ ul li:nth-child(even){
     border: 3px double green;
     box-sizing: border-box; /* Thay đổi cách tính kích thước */
 }
+/* CSS BT4 */
+.main-title{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align: right;
+    color: #4CAF50;
+
+}
+.normal-paragraph{
+    font-size: 1.2em;
+    line-height: 1.6;
+    text-align: justify;
+    color: #333;
+
+
+}
+.decorated-text{
+
+text-decoration: underline;
+font-style: italic;
+font-size: 1.1em;
+
+
+}
+.decorated-text:hover{
+    text-decoration: line-through;
+    color: purple;
+}
