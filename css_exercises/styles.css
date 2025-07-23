@@ -95,3 +95,43 @@ font-size: 1.1em;
     text-decoration: line-through;
     color: purple;
 }
+/* BT 5 CSS */
+.color-box-1, .color-box-2, .color-box-3
+{
+
+     width: 150px;
+    height: 70px;
+    margin-bottom: 15px;
+    text-align: center;
+    line-height: 70px;
+    color: white;
+    border-radius: 5px;
+
+}
+.color-box-1 {
+    background-color: #FF5733;
+}
+
+.color-box-2 {
+    background-color: rgb(75, 192, 192);
+}
+
+.color-box-3 {
+    background-color: hsl(240, 100%, 50%);
+}
+
+.background-image-box {
+    width: 400px;
+    height: 200px;
+    border: 2px solid #555;
+    background-image: url('https://www.google.com/imgres?q=background&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F001%2F849%2F553%2Fsmall_2x%2Fmodern-gold-background-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbackground&docid=d_KTHD6yjhtVRM&tbnid=LwjIT-XM2lbZ3M&vet=12ahUKEwjfn5u-itOOAxXbRmwGHQ4iBSoQM3oECA0QAA..i&w=625&h=400&hcb=2&itg=1&ved=2ahUKEwjfn5u-itOOAxXbRmwGHQ4iBSoQM3oECA0QAA'); /* Thay thế bằng ảnh của bạn */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 8px;
+}
+
