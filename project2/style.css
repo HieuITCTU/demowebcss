@@ -68,9 +68,9 @@
         
         .websites-section {
             background-color: #ffffe0;
-            border: 3px solid #87ceeb;
+            border: 10px solid #87ceeb;
             padding: 20px;
-            margin: 0;
+            margin: 20px 0;
         }
         
         .websites-section ul {
