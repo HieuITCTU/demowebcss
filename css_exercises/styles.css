@@ -175,4 +175,25 @@ margin: 5px;
     right: 20px;
     border-radius: 5px;
 }
+/*BT 7 CSS*/
 
+.flex-container{
+
+  display: flex;
+  border: 2px solid #007BFF;
+    padding: 10px;
+    min-height: 150px;
+    background-color: #f8f9fa;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.flex-item{
+
+background-color: #28a745;
+color: white;
+padding: 15px 25px;
+margin: 5px;
+border-radius: 5px;
+font-weight: bold;
+}
