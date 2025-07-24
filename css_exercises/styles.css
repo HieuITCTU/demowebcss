@@ -201,3 +201,46 @@ margin: 5px;
 border-radius: 5px;
 font-weight: bold;
 }
+/*BT 8 CSS*/
+html{
+    font-size: 16px;
+
+}
+.em-example{
+
+font-size: 20px;
+padding: 1em;
+
+
+}
+.rem-exmaple{
+font-size: 1.25rem;
+margin-top: 20px;
+
+}
+.viewport-units-example{
+width: 50vw;
+height: 20vh;
+background-color: lightcoral;
+margin-top: 20px;
+text-align: center;
+line-height: 20vh;
+
+}
+.percentage-example-parent {
+    width: 500px;
+    height: 100px;
+    border: 1px solid gray;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.percentage-example {
+    width: 75%; /* 75% của 500px */
+    height: 100%; /* 100% của 100px */
+    background-color: lightgreen;
+    text-align: center;
+    line-height: 100px;
+    color: #333;
+    border-radius: 5px;
+}
