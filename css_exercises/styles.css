@@ -124,7 +124,7 @@ font-size: 1.1em;
     width: 400px;
     height: 200px;
     border: 2px solid #555;
-    background-image: url('https://www.google.com/imgres?q=background&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F001%2F849%2F553%2Fsmall_2x%2Fmodern-gold-background-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbackground&docid=d_KTHD6yjhtVRM&tbnid=LwjIT-XM2lbZ3M&vet=12ahUKEwjfn5u-itOOAxXbRmwGHQ4iBSoQM3oECA0QAA..i&w=625&h=400&hcb=2&itg=1&ved=2ahUKEwjfn5u-itOOAxXbRmwGHQ4iBSoQM3oECA0QAA'); /* Thay thế bằng ảnh của bạn */
+    background-image: url('./images/hinh-banner.jpg'); /* Thay thế bằng ảnh của bạn */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
