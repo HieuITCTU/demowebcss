@@ -134,4 +134,45 @@ font-size: 1.1em;
     line-height: 200px;
     border-radius: 8px;
 }
+/*BT 6 CSS*/
+span{
+display: block;
+border: 1px solid blue;
+padding: 5px;
+margin: 5px;
+}
+
+.display-div-1, .display-div-2, .display-div-3 {
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+}
+
+.display-div-2 {
+    display: inline; /* Chuyển div từ block sang inline */
+}
+
+.parent-box {
+    width: 300px;
+    height: 200px;
+    background-color: #eee;
+    border: 2px dashed gray;
+    position: relative; /* Quan trọng cho position: absolute của con */
+    margin-top: 30px;
+    padding: 15px;
+}
+
+.child-box {
+    width: 80px;
+    height: 50px;
+    background-color: coral;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border-radius: 5px;
+}
 
