@@ -31,3 +31,64 @@ border: 100px #F53240 solid;
 margin: 100px;
 
 }
+
+/*BT 4.2*/
+h1{
+
+    background-color: red;
+    width: 500px;
+    text-align: center;
+}
+h2{
+
+    background-color: orange;
+    text-align: right;
+
+}
+
+h3{
+
+background-color: green;
+line-height: 1.2;
+
+}
+h4{
+
+
+background-color: pink;
+height: 200px;
+line-height: 4;
+}
+p{
+
+    background-color: yellow;
+    width: 500px;
+    padding: 10px;
+    text-align: justify;
+}
+/*BT4.3*/
+
+h1 {
+  background-color: red;
+  width: 50%;
+  margin: 0 auto;
+}
+p {
+  background-color: orange;
+  width: 70%;
+}
+a {
+  display: block;
+  width: 100px;
+  margin: 0 auto;
+}
+section {
+  background-color: yellow;
+  width: 70%;
+  margin: 0 auto;
+}
+div {
+  background-color: pink;
+  width: 50%;
+  margin: 0 auto;
+}
