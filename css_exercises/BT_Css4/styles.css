@@ -31,6 +31,29 @@ border: 100px #F53240 solid;
 margin: 100px;
 
 }
+/*BT 4.2.2*/
+
+#width50 {
+  background-color:red;
+  width: 50%;
+}
+#width80max {
+  background-color: orange;
+  width: 80%;
+  max-width: 1000px;
+}
+#width30min {
+  background-color: yellow;
+  width: 30%;
+  min-width: 200px;
+}
+.heightSet {
+  background-color: pink;
+  height: 25%;
+}
+#containingBlock {
+  height: 500px;
+}
 
 /*BT 4.2*/
 h1{
@@ -66,7 +89,7 @@ p{
     padding: 10px;
     text-align: justify;
 }
-/*BT4.3*/
+/*BT4.2.3*/
 
 h1 {
   background-color: red;
@@ -91,4 +114,53 @@ div {
   background-color: pink;
   width: 50%;
   margin: 0 auto;
+}
+
+/*BT4.2.4*/
+body {
+  font-family: Tahoma;
+}
+
+header {
+  background-color: #EC576B;
+  color: white;
+  border-bottom: 5px #FEDC3D solid;
+}
+
+header h1 {
+  border-bottom: 2px #FFFFFF solid;
+}
+
+header p {
+  border-bottom: 2px #FFFFFF solid;
+}
+
+section {
+  background-color: #FEDC3D;
+}
+
+h2 {
+  border-bottom: 5px #000000 solid;
+}
+
+article {
+  background-color: #FFFFFF;
+}
+
+#leftP {
+
+}
+
+#rightP {
+
+}
+
+h3 {
+
+}
+
+footer {
+  background-color: #4EC5C1;
+  border-top: 5px #FEDC3D solid;
+  color: white;
 }

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    
+    <!--BT4.2.1-->
 
 <p id="five">
 <br>padding 5px</br>
@@ -34,7 +34,26 @@
 <br> margin 100px</br>
 
 </p>
-<!--BT 4.2-->
+<!--BT 4.2.2-->
+
+<p id="width50">
+      width 50%, no min or max
+    </p>
+    <p id="width80max">
+      width 80%, max of 1000px
+    </p>
+    <p id="width30min">
+      width 30%, min of 200px
+    </p>
+    <p class="heightSet">
+      the height is set to 25%, but there is no effect
+    </p>
+    <div id="containingBlock">
+      <p class="heightSet">
+        this height is also set to 25%, and since it's within a div containing block who has a set height of 500px this p will resize in relation to that. 
+      </p>
+    </div>
+<!--BT 4.2.3-->
 
 <h1>this is a centered header</h1>
     <h2>this is a right aligned header</h2>
@@ -45,7 +64,7 @@
     <h4>this header is aligned to the baseline of the line height within a stretched containing box</h4>
 
 
-<!--BT4.3-->
+<!--BT4.2.3-->
 
  <h1>this is a centered header</h1>
     <p>
@@ -59,5 +78,20 @@
       and here is text in a centered section below the inner div
     </section>
 
+    <!--BT4.2.4-->
+<section>
+      <h2>This is the main body of my page</h2>
+      <article id="leftP">
+        <h3>Article title</h3>
+        This is a buch of text that will be left aligned under the main title of the page, but still within the main center section of the page.
+      </article>
+      <article id="rightP">
+        <h3>Article title</h3>
+        Here is some more text that will be right aligned under the first paragraph, but still within the main center section of the page.
+      </article>
+    </section>
+    <footer>
+      thank you and please visit again soon!
+    </footer>
 </body>
 </html>
