@@ -263,21 +263,21 @@ h3 {
 }
 /*BT 4.4.2 */
 
-h1 {
+.ex442 h1 {
        background-color: red;
        width: 300px;
        position: relative;
        left: 150px;
     }
-    section {
+    .ex442 section {
        background-color: orange;
        height: 100px;
     }
-    h2 {
+    .ex442 h2 {
        position: relative;
        top: 20px;
     }
-    footer {
+    .ex442 footer {
        background-color: yellow;
        height: 200px;
        width: 300px;
@@ -285,7 +285,7 @@ h1 {
        left: 50px;
        top: -50px;
     }
-    h3 {
+    .ex442 h3 {
        position: relative;
        top: 50px;
        left: 10px;
