@@ -314,43 +314,43 @@ body {
 
 
 
- .ex451 div#menu1 {
+  div#menu1 {
   clear: both;
   margin-bottom: 50px;
   padding: 30px;
   font-family: Arial;
 }
 
- .ex451 #menu1 ul {
+  #menu1 ul {
   list-style: none;
   height: 50px;
 }
 
- .ex451 #menu1 a {
+ #menu1 a {
   text-decoration: none; 
 }
- .ex451 #menu1 {
+  #menu1 {
   background-color: #0E0B16;
 }
- .ex451 #menu1 a {
+  #menu1 a {
   color: #E7DFDD;
 }
- .ex451 #menu1 li {
+  #menu1 li {
   padding: 10px;
   float: left;
 }
- .ex451 #menu1 a:hover {
+  #menu1 a:hover {
   border-bottom: 2px #A239CA solid;
 }
- .ex451 #menu1 .currentPage {
+  #menu1 .currentPage {
   background-color: #A239CA;
 }
- .ex451 #menu1 .currentPage a {
+  #menu1 .currentPage a {
   color: #0E0B16;
 }
 
 
- .ex451 #menu2 ul {
+ #menu2 ul {
   width: 10%;
   height: 300px;
   background-color: #BFD8D2;
@@ -359,72 +359,72 @@ body {
   padding: 0px;
   float: left;
 }
- .ex451 #menu2 a {
+  #menu2 a {
   color: #FFFFFF;
 }
- .ex451 #menu2 li {
+ #menu2 li {
   height: 15%;
   padding-top: 25px;
 }
- .ex451 #menu2 li:hover {
+  #menu2 li:hover {
   background-color: #FEDCD2;
   border-left: 5px #DCB239 solid;
 }
- .ex451 #menu2 li a {
+  #menu2 li a {
   font-size: 1.2em;
 }
- .ex451 #menu2 .currentPage {
+  #menu2 .currentPage {
   background-color: #FEDCD2;
   border-left: 5px #DCB239 solid;
 }
- .ex451 #menu2 section {
+  #menu2 section {
   background-color: #FEDCD2;
   margin-left: 10%;
   height: 300px;
 }
- .ex451 #menu2 h1 {
+  #menu2 h1 {
   margin: 0px;
   color: #FFFFFF;
   text-align: center;
 }
- .ex451 #menu2 p {
+  #menu2 p {
   padding: 30px;
 }
 
- .ex451 #menu3 {
+  #menu3 {
   background-color: #D9D9D9;
 }
- .ex451 #menu3 ul {
+  #menu3 ul {
   background-color: #4484CE;
 }
- .ex451 #menu3 li {
+  #menu3 li {
   float: right;
   padding: 15px 30px;
 }
- .ex451 #menu3 li:hover {
+ #menu3 li:hover {
   background-color: #F9CF00;
 }
- .ex451 #menu3 li:hover a {
+  #menu3 li:hover a {
   color: #4484CE;
 }
- .ex451 #menu3 a {
+  #menu3 a {
   color: #F9CF00;
   font-size: 1.3em;
 }
- .ex451 #menu3 .subitems {
+  #menu3 .subitems {
   background-color: #F9CF00;
   width: 100%;
   padding: 0px;
   display: none;
 }
- .ex451 #menu3 .subitems li {
+  #menu3 .subitems li {
   width: 100%;
   margin: 0px;
   padding: 0px;
   float: none;
   color: #4484CE;
 }
- .ex451 #menu3 #about:hover .subitems {
+  #menu3 #about:hover .subitems {
   display: block;
 }
 /*4.5.2 Footer*/
