@@ -164,3 +164,150 @@ footer {
   border-top: 5px #FEDC3D solid;
   color: white;
 }
+/*BT 4.3.2*/
+body {
+  font-size: 24pt;
+  font-family: helvetica, sans-serif;
+}
+div {
+  margin-bottom: 10px;
+}
+#default {
+  background-color: red;
+}
+#floatRightNoWidth {
+  background-color: orange; 
+  float: right;
+}
+#floatRightTooWide {
+  background-color: yellow;
+  float: right;
+}
+#noFloatWidthSet {
+  background-color: green;
+  width: 40%;
+}
+#noFloatClearRight {
+  background-color: purple;
+  clear: right;
+}
+#floatRightWidthSet {
+  background-color: blue;
+  width: 30%;
+  float: right;
+}
+/*BT 4.3.3*/
+
+body {
+  background-color: #4ABDAC;
+  color: #FFFFFF;
+  font-family: Georgia, serif;
+}
+header {
+  background-color: #F7B733;
+  height: 75px;
+}
+
+h1 {
+  padding: 15px;
+}
+#navigation {
+  height: 30px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navigation li:hover {
+  border-bottom: 1px #FC4A1A solid;
+}
+#content {
+  background-color: #DFDCE3;
+  width: 50%;
+  margin: 0 auto;
+}
+div {
+  background-color: #FC4A1A;
+  width: 250px;
+  height: 150px;
+  padding: 10px;
+  margin: 20px;
+}
+/*BT 4.4.2*/
+h1 {
+  background-color: red;
+  width: 300px;
+  position: relative;
+  left: 150px;
+}
+section {
+  background-color: orange;
+  height: 100px;
+}
+h2 {
+  position: relative;
+  top: 20px;
+}
+footer {
+  background-color: yellow;
+  height: 200px;
+  width: 300px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+h3 {
+  position: relative;
+  top: 50px;
+  left: 10px;
+}
+/*BT 4.4.2 */
+
+h1 {
+       background-color: red;
+       width: 300px;
+       position: relative;
+       left: 150px;
+    }
+    section {
+       background-color: orange;
+       height: 100px;
+    }
+    h2 {
+       position: relative;
+       top: 20px;
+    }
+    footer {
+       background-color: yellow;
+       height: 200px;
+       width: 300px;
+       position: relative;
+       left: 50px;
+       top: -50px;
+    }
+    h3 {
+       position: relative;
+       top: 50px;
+       left: 10px;
+    }
+/*BT 4.4.3*/
+body {
+  background-color: #EFEFEF;
+  color: #A9A9A9;
+  font-family: "Book Antiqua", serif; 
+}
+h1 {
+  color: #FF3B3F;
+}
+h2 {
+}
+div {
+  background-color: #CAEBF2;
+  width: 80%;
+}
+h3 {
+  color: #FF3B3F;
+}
+p {
+  width: 90%;
+}
