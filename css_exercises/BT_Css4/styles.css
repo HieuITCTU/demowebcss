@@ -296,19 +296,19 @@ body {
   color: #A9A9A9;
   font-family: "Book Antiqua", serif; 
 }
-h1 {
+.ex443 h1 {
   color: #FF3B3F;
 }
-h2 {
+.ex443 h2 {
 }
-div {
+.ex443 div {
   background-color: #CAEBF2;
   width: 80%;
 }
-h3 {
+.ex443 h3 {
   color: #FF3B3F;
 }
-p {
+.ex443 p {
   width: 90%;
 }
 /*BT 4.5.1 Menu*/
