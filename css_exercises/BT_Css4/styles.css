@@ -315,18 +315,18 @@ p {
 
 
 
-  div {
+  div#menu1 {
   clear: both;
   margin-bottom: 50px;
   padding: 30px;
   font-family: Arial;
 }
-ul {
+#menu1 ul {
   list-style: none;
   height: 50px;
 }
 
-a {
+#menu1 a {
   text-decoration: none; 
 }
 #menu1 {
